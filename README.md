@@ -22,7 +22,7 @@ One-page site in Serbian and English for a ski-to-door apartment in the centre o
 
 Diamond Lux is a 33 m² apartment for four in Vila Montana, in the centre of Kopaonik, 50 m from Hotel Grand, with a ski room in the building and the slope across the road. It had lived on booking portals and Instagram, and the owner wanted a place of its own that convinces a guest quickly and ends in a phone call rather than a form. Everything that decides a booking had to fit into one scroll, in Serbian and English.
 
-The apartment's name gave the idea: a diamond rendered in WebGL floats behind the content and moves as you scroll. The stone is a brilliant cut written in code, with a refractive index of 2.42, and its geometry is kept non-indexed, so every facet has its own normals and looks flat and sharp. A clear stone on the site's warm, light background simply vanished, so a dark disc sits behind it for contrast and fades out as you scroll down.
+The apartment's name gave the idea: on desktop, a diamond rendered in WebGL floats behind the content and moves as you scroll. The stone is a brilliant cut written in code, with a refractive index of 2.42, and its geometry is kept non-indexed, so every facet has its own normals and looks flat and sharp. A clear stone on the site's warm, light background simply vanished, so a bright, icy blue halo now sits behind it for contrast and fades out as you scroll down.
 
 ## What I built
 

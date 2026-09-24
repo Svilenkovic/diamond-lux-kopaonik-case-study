@@ -22,7 +22,7 @@ Sajt na jednoj strani, na srpskom i engleskom, za ski-to-door apartman u centru 
 
 Diamond Lux je apartman od 33 m² za četiri osobe u Vili Montana, u centru Kopaonika, 50 m od hotela Grand, sa skijašnicom u zgradi i stazom preko puta. Oglašavao se na portalima za smeštaj i na Instagramu, a vlasnik je hteo sopstveni sajt koji brzo ubedi gosta i dovede ga do poziva, bez forme. Sve što odlučuje o rezervaciji moralo je da stane u jedan skrol, na srpskom i engleskom.
 
-Ime apartmana dalo je i ideju: dijamant iscrtan u WebGL-u lebdi iza sadržaja i pomera se dok se skroluje. Kamen je brilijantni brus napisan u kodu, sa indeksom prelamanja 2,42, a geometrija mu je namerno neindeksirana, pa svaka faseta ima svoje normale i izgleda ravno i oštro. Providan kamen na toploj, svetloj pozadini sajta jednostavno je nestajao, pa iza njega stoji tamna kružna ploča koja daje kontrast i bledi kako se skroluje naniže.
+Ime apartmana dalo je i ideju: na računaru dijamant iscrtan u WebGL-u lebdi iza sadržaja i pomera se dok se skroluje. Kamen je brilijantni brus napisan u kodu, sa indeksom prelamanja 2,42, a geometrija mu je namerno neindeksirana, pa svaka faseta ima svoje normale i izgleda ravno i oštro. Providan kamen na toploj, svetloj pozadini sajta jednostavno je nestajao, pa iza njega sada stoji svetao, ledenoplav oreol koji daje kontrast i bledi kako se skroluje naniže.
 
 ## Šta sam uradio
 
